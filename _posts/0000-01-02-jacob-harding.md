@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text
+I need sleep
 Use the left arrow to go back!
